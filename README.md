@@ -1,5 +1,6 @@
 ````md
 # 📝 Notes API
+This is my first project in backend development i made using nodejs.
 
 A simple RESTful Notes API built using Node.js and Express.  
 This project supports full CRUD operations (Create, Read, Update, Delete) for managing notes using a local JSON file as storage.
